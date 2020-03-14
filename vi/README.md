@@ -7,6 +7,9 @@
   - [Light Version Transparent](#light-version-transparent)
 - [Palette](#palette)
   - [Main Palette](#main-palette)
+    - [Main Palette Less Code](#main-palette-less-code)
+    - [Main Palette Stylus Code](#main-palette-stylus-code)
+  
 
 ## Logo
 
@@ -179,3 +182,39 @@
 ### Main Palette
 
 ![](./assets/richlab_vi_main_palette.png)
+
+### Main Palette Less Code
+
+```less
+/* HSL */
+@color-light: hsla(0%, 0%, 99%, 1);
+@color-gray: hsla(0%, 0%, 93%, 1);
+@color-inactive: hsla(0%, 0%, 47%, 1);
+@color-font: hsla(0%, 0%, 15%, 1);
+@color-dark: hsla(0%, 0%, 7%, 1);
+
+/* RGB */
+@color-light: rgba(252, 252, 252, 1);
+@color-gray: rgba(238, 238, 238, 1);
+@color-inactive: rgba(119, 119, 119, 1);
+@color-font: rgba(39, 39, 39, 1);
+@color-dark: rgba(17, 17, 17, 1);
+```
+
+### Main Palette Stylus Code
+
+```stylus
+/* HSL */
+@color-light = hsla(0%, 0%, 99%, 1);
+@color-gray = hsla(0%, 0%, 93%, 1);
+@color-inactive = hsla(0%, 0%, 47%, 1);
+@color-font = hsla(0%, 0%, 15%, 1);
+@color-dark = hsla(0%, 0%, 7%, 1);
+
+/* RGB */
+@color-light = rgba(252, 252, 252, 1);
+@color-gray = rgba(238, 238, 238, 1);
+@color-inactive = rgba(119, 119, 119, 1);
+@color-font = rgba(39, 39, 39, 1);
+@color-dark = rgba(17, 17, 17, 1);
+```
