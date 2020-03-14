@@ -1,8 +1,14 @@
 # Visual Identity of RichLab
 
-## LOGO
+- [Logo](#logo)
+  - [Light Version](#light-version)
+  - [Dark Version](#dark-version)
+- [Palette](#palette)
+  - [Main](#main-palette)
 
-### LIGHT VERSION
+## Logo
+
+### Light Version
 
 #### light_logo_version_overview
 
@@ -87,8 +93,8 @@
 </p>
 
 
-## PALETTE
+## Palette
 
-### MAIN
+### Main Palette
 
 ![](./assets/richlab_vi_main_palette.png)
