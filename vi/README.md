@@ -6,6 +6,10 @@
 
 ![](./assets/richlab_vi_light_logo_version_overview.png)
 
+<p align="center">
+  <img width="400" src="https://github.com/rich-lab/art/blob/master/vi/assets/richlab_vi_light_logo_standard_version.png?raw=true">
+</p>
+
 ![](./assets/richlab_vi_light_logo_standard_version.png)
 
 ![](./assets/richlab_vi_light_logo_standard_version_cn.png)
