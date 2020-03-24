@@ -16,6 +16,11 @@
 
 ### Dark Version
 
+#### dark_logo_version_overview
+
+![](./assets/richlab_vi_dark_logo_version_overview.png)
+
+
 #### dark_logo_standard_version
 
 <p align="center">
